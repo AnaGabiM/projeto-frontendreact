@@ -1,0 +1,36 @@
+[{
+    "id": "1",
+    "name": "Estação Espacial Internacional",
+    "value": "150.0",
+    "img": "https://w7.pngwing.com/pngs/999/205/png-transparent-international-space-station-satellite-outer-space-space-and-upper-atmosphere-research-commission-satelite-spacecraft-outer-space-space-station.png"
+},
+{
+    "id": "2",
+    "name": "St. Militar",
+    "value": "520.0",
+    "img": "https://w7.pngwing.com/pngs/933/423/png-transparent-military-satellite-satellite-ry-reconnaissance-satellite-system-satellite-miscellaneous-spacecraft-engineering-thumbnail.png"
+},
+{
+    "id": "3",
+    "name": "St. de comunicações",
+    "value": "300.0",
+    "img": "https://w7.pngwing.com/pngs/587/770/png-transparent-communications-satellite-ground-station-satellite-ry-communication-cartoon-animation-testbed-thumbnail.png"
+},
+{
+    "id": "4",
+    "name": "St. Sistema de Navegação GPS",
+    "value": "850.0",
+    "img": "https://w7.pngwing.com/pngs/978/632/png-transparent-gps-navigation-systems-satellite-navigation-gps-satellite-blocks-global-positioning-system-satelite-surveyor-gps-navigation-systems-automotive-navigation-system-thumbnail.png"
+},
+{
+    "id": "5",
+    "name": "St. Geossincrono",
+    "value": "700.0",
+    "img": "https://w7.pngwing.com/pngs/856/443/png-transparent-transiting-exoplanet-survey-satellite-geosynchronous-satellite-space-telescope-free-s-satellite-miscellaneous-spacecraft-vehicle-thumbnail.png"
+},
+{
+    "id": "6",
+    "name": "St. Koronas-Foton",
+    "value": "550.0",
+    "img": "https://w7.pngwing.com/pngs/470/183/png-transparent-satellite-koronas-n-living-with-a-star-spacecraft-satelite-miscellaneous-satelite-drawing-thumbnail.png"
+}]
